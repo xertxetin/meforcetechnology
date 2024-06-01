@@ -20,35 +20,44 @@
         "nationality": "Türkiye",
         "birthDate": "1997-07-21",
         "birthPlace": {
-          "@type": "Place",
-          "name": "İstanbul, Türkiye"
-        },
+            "@type": "Place",
+            "name": "İstanbul",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "İstanbul",
+              "addressCountry": "TR" 
+            }
+          },
         "jobTitle": "Kurucu ve CEO",
         "worksFor": {
           "@type": "Organization",
-          "name": "Me Force"
+          "name": "Me Force",
+          "description": "Me Force, yapay zeka ve yazılım alanlarında hizmet veren bir şirkettir.",
+          "url": "https://www.meforcetechnology.com/"
         },
         "description": "Mert Çetin, Me Force'un kurucusu ve CEO'sudur. Yapay zeka, yazılım geliştirme ve inovasyon alanlarında uzmanlaşmıştır. Ayrıca, çeşitli teknoloji projelerinde liderlik yapmış ve birçok ödül kazanmıştır.",
-        "url": "https://www.instagram.com/xertxetin",
+        "url": "https://www.mertcetin.com/", 
         "sameAs": [
-          "https://www.instagram.com/xertxetin",
-          "https://www.linkedin.com/in/mert-cetin-kurumsal",
-          "https://x.com/xertxetin",
-          "https://kick.com/xertxetin",
-          "https://www.twitch.tv/xertxetin",
-          "https://github.com/xertxetin",
-          "https://www.youtube.com/@XertXetin"
+          "https://www.instagram.com/xertxetin" , //  Instagram profiliniz
+          "https://www.linkedin.com/in/mert-cetin-kurumsal",  // LinkedIn profiliniz
+          "https://twitter.com/xertxetin", // Twitter profiliniz (Eğer varsa)
+          "https://github.com/xertxetin", // GitHub profiliniz (Eğer varsa)
+          "https://www.youtube.com/@XertXetin"  // YouTube kanalınız (Eğer varsa)
         ],
         "alumniOf": [
           {
             "@type": "EducationalOrganization",
             "name": "Avcılar Mesleki ve Teknik Anadolu Lisesi",
-            "url": "https://www.avcilarmtal.meb.k12.tr/"
+            "url": "https://www.avcilarmtal.meb.k12.tr/",
+            "description": "Avcılar Mesleki ve Teknik Anadolu Lisesi, İstanbul'da bulunan bir ortaöğretim kurumudur.",
+            "educationalLevel": "HighSchool"
           },
           {
             "@type": "CollegeOrUniversity",
             "name": "Girişim Üniversitesi",
-            "url": "https://www.girisim.edu.tr/"
+            "url": "https://www.girisim.edu.tr/",
+            "description": "Girişim Üniversitesi, işletme ve girişimcilik alanlarında eğitim veren bir üniversitedir.",
+            "educationalLevel": "University"
           }
         ],
         "award": [
@@ -56,11 +65,12 @@
             "@type": "Award",
             "name": "Yılın En İyi Teknoloji Projesi Ödülü",
             "awardDate": "2021-01-01",
-            "awarder": "Teknoloji Topluluğu"
+            "awarder": "Teknoloji Liderleri Derneği"  // Daha spesifik bir isim
           }
-        ]
-      }      
-</script> 
+        ],
+        "keywords": ["Yapay Zeka", "Yazılım Geliştirme", "İnovasyon", "Teknoloji", "CEO", "Girişimcilik"]
+    }
+</script>
 
 <link rel="stylesheet" href="css/theme.min.css">
 <style>
