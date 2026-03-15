@@ -1,50 +1,102 @@
 [
   {
     "track_name": "OIIA OIIA 8D Spinning CAT",
+    "category": "8d",
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%208D%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%208D%20Spinning%20CAT.mp3",
-    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif"
+    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif",
+
+    "transitions": {
+      "active": true,
+      "ai_auto_director": true,
+      "trigger": "beat"
+    },
+    "ambiance": {
+      "active": false,
+      "ai_mode": false,
+      "rage_mode": false
+    },
+    "generator": {
+      "active": true,
+      "ai_auto_vj": true,
+      "rage_mode": true
+    }
   },
   {
     "track_name": "OIIA OIIA AURA CAT Spinning CAT",
+    "category": "edm",
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20AURA%20CAT%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20AURA%20CAT%20Spinning%20CAT.mp3",
-    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif"
+    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif",
+
+    "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
+    "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
   },
   {
     "track_name": "OIIA OIIA EMPIRE Spinning CAT",
+    "category": "phonk",
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20EMPIRE%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20EMPIRE%20Spinning%20CAT.mp3",
-    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif"
+    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif",
+
+    "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
+    "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
   },
   {
     "track_name": "OIIA OIIA INFINITY Spinning CAT",
+    "category": "edm",
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20INFINITY%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20INFINITY%20Spinning%20CAT.mp3",
-    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif"
+    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif",
+
+    "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
+    "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
   },
   {
     "track_name": "OIIA OIIA KOREA Spinning CAT",
+    "category": "kpop",
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20KOREA%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20KOREA%20Spinning%20CAT.mp3",
-    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif"
+    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif",
+
+    "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
+    "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
   },
   {
     "track_name": "OIIA OIIA MONTAGEM TOMADA Spinning CAT",
+    "category": "phonk",
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20MONTAGEM%20TOMADA%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20MONTAGEM%20TOMADA%20Spinning%20CAT.mp3",
-    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif"
+    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif",
+
+    "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
+    "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
   },
   {
     "track_name": "OIIA OIIA RAINBOW Spinning CAT",
+    "category": "edm",
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20RAINBOW%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20RAINBOW%20Spinning%20CAT.mp3",
-    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif"
+    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif",
+
+    "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
+    "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
   },
   {
     "track_name": "OIIA OIIA Spinning CAT",
+    "category": "edm",
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20Spinning%20CAT.mp3",
-    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif"
+    "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/oiia-loop-xertxetin.gif",
+
+    "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
+    "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
   }
 ]
