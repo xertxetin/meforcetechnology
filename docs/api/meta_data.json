@@ -7,21 +7,9 @@
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%208D%20Spinning%20CAT.mp3",
     "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/spinning-cat.gif",
 
-    "transitions": {
-      "active": true,
-      "ai_auto_director": true,
-      "trigger": "beat"
-    },
-    "ambiance": {
-      "active": false,
-      "ai_mode": false,
-      "rage_mode": false
-    },
-    "generator": {
-      "active": true,
-      "ai_auto_vj": true,
-      "rage_mode": true
-    }
+    "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
+    "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "8D" }
   },
   {
     "track_name": "OIIA OIIA AURA CAT Spinning CAT",
@@ -33,7 +21,7 @@
 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "aura" }
   },
   {
     "track_name": "OIIA OIIA EMPIRE Spinning CAT",
@@ -45,7 +33,7 @@
 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "empire" }
   },
   {
     "track_name": "OIIA OIIA INFINITY Spinning CAT",
@@ -57,7 +45,7 @@
 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
   },
   {
     "track_name": "OIIA OIIA KOREA Spinning CAT",
@@ -69,7 +57,7 @@
 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
   },
   {
     "track_name": "OIIA OIIA MONTAGEM TOMADA Spinning CAT",
@@ -81,7 +69,7 @@
 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
   },
   {
     "track_name": "OIIA OIIA RAINBOW Spinning CAT",
@@ -93,7 +81,7 @@
 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "rainbow" }
   },
   {
     "track_name": "OIIA OIIA Spinning CAT",
@@ -105,6 +93,6 @@
 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
   }
 ]
