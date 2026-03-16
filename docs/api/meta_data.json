@@ -10,7 +10,7 @@
     "model_3d_creator": "Zhuier",
     "model_3d_licence": "https://sketchfab.com/3d-models/oiiaioooooiai-cat-30d27bf7fb224849b76e208a6eccdb36",
     "model_3d": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/oiiaioooooiai_cat.glb",
-    "model_3d_scale": 14,
+    "model_3d_scale": 17,
     "model_3d_speed": 1,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
