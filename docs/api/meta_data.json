@@ -2,21 +2,20 @@
   {
     "track_name": "OIIA OIIA 3D Spinning CAT",
     "artist_name": "XertXetin",
-    "category": "edm",
+    "category": "3d",
     "created_at": "2026-03-17",
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%203D%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%203D%20Spinning%20CAT.mp3",
     "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/spinning-cat.gif",
-
     "model_3d_creator": "Zhuier",
     "model_3d_licence": "https://sketchfab.com/3d-models/oiiaioooooiai-cat-30d27bf7fb224849b76e208a6eccdb36",
     "model_3d": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/oiiaioooooiai_cat.glb",
-
+    "model_3d_scale": 14,
+    "model_3d_speed": 1,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
   },
-
   {
     "track_name": "OIIA OIIA 8D Spinning CAT",
     "artist_name": "XertXetin",
@@ -25,16 +24,15 @@
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%208D%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%208D%20Spinning%20CAT.mp3",
     "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/spinning-cat.gif",
-
     "model_3d_creator": null,
     "model_3d_licence": null,
     "model_3d": null,
-
+    "model_3d_scale": null,
+    "model_3d_speed": null,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "8D" }
   },
-
   {
     "track_name": "OIIA OIIA AURA CAT Spinning CAT",
     "artist_name": "XertXetin",
@@ -43,16 +41,15 @@
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20AURA%20CAT%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20AURA%20CAT%20Spinning%20CAT.mp3",
     "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/spinning-cat.gif",
-
     "model_3d_creator": null,
     "model_3d_licence": null,
     "model_3d": null,
-
+    "model_3d_scale": null,
+    "model_3d_speed": null,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "aura" }
   },
-
   {
     "track_name": "OIIA OIIA EMPIRE Spinning CAT",
     "artist_name": "XertXetin",
@@ -61,16 +58,15 @@
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20EMPIRE%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20EMPIRE%20Spinning%20CAT.mp3",
     "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/spinning-cat.gif",
-
     "model_3d_creator": null,
     "model_3d_licence": null,
     "model_3d": null,
-
+    "model_3d_scale": null,
+    "model_3d_speed": null,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "empire" }
   },
-
   {
     "track_name": "OIIA OIIA INFINITY Spinning CAT",
     "artist_name": "XertXetin",
@@ -79,16 +75,15 @@
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20INFINITY%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20INFINITY%20Spinning%20CAT.mp3",
     "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/spinning-cat.gif",
-
     "model_3d_creator": null,
     "model_3d_licence": null,
     "model_3d": null,
-
+    "model_3d_scale": null,
+    "model_3d_speed": null,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
   },
-
   {
     "track_name": "OIIA OIIA KOREA Spinning CAT",
     "artist_name": "XertXetin",
@@ -97,16 +92,15 @@
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20KOREA%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20KOREA%20Spinning%20CAT.mp3",
     "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/spinning-cat.gif",
-
     "model_3d_creator": null,
     "model_3d_licence": null,
     "model_3d": null,
-
+    "model_3d_scale": null,
+    "model_3d_speed": null,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
   },
-
   {
     "track_name": "OIIA OIIA MONTAGEM TOMADA Spinning CAT",
     "artist_name": "XertXetin",
@@ -115,16 +109,15 @@
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20MONTAGEM%20TOMADA%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20MONTAGEM%20TOMADA%20Spinning%20CAT.mp3",
     "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/spinning-cat.gif",
-
     "model_3d_creator": null,
     "model_3d_licence": null,
     "model_3d": null,
-
+    "model_3d_scale": null,
+    "model_3d_speed": null,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
   },
-
   {
     "track_name": "OIIA OIIA RAINBOW Spinning CAT",
     "artist_name": "XertXetin",
@@ -133,16 +126,15 @@
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20RAINBOW%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20RAINBOW%20Spinning%20CAT.mp3",
     "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/spinning-cat.gif",
-
     "model_3d_creator": null,
     "model_3d_licence": null,
     "model_3d": null,
-
+    "model_3d_scale": null,
+    "model_3d_speed": null,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "rainbow" }
   },
-
   {
     "track_name": "OIIA OIIA Spinning CAT",
     "artist_name": "XertXetin",
@@ -151,11 +143,11 @@
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20Spinning%20CAT.mp3",
     "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/spinning-cat.gif",
-
     "model_3d_creator": null,
     "model_3d_licence": null,
     "model_3d": null,
-
+    "model_3d_scale": null,
+    "model_3d_speed": null,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
