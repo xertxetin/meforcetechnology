@@ -10,8 +10,11 @@
     "model_3d_creator": "XertXetin",
     "model_3d_licence": "https://x.com/xertxetin",
     "model_3d": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%203D%20Spinning%20CAT.glb",
-    "model_3d_scale": 17,
+    "model_3d_scale": 8,
     "model_3d_speed": 1,
+    "model_3d_lighting_intensity": 5,
+    "model_3d_wireframe": false,
+    "model_3d_lighting_style": "normal", 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
