@@ -173,7 +173,7 @@
 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "ego" }
   },
   {
     "track_name": "OIIA OIIA COSMIC Spinning CAT",
@@ -193,6 +193,6 @@
 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "cosmic" }
   }
 ]
