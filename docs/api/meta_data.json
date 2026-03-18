@@ -17,7 +17,8 @@
     "model_3d_lighting_style": "normal", 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "3d", "blur": 25 }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "3d", "blur": 25 },
+    "master_camera": { "enable_camera": true, "mode": "drift", "intensity": 50, "beat_reaction": 64, "base_zoom": 0.90 }
   },
   {
     "track_name": "OIIA OIIA 8D Spinning CAT",
