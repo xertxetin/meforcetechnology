@@ -34,9 +34,11 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "8D" }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "8D", "blur": 10 },
+    "master_camera": { "enable_camera": true, "mode": "drift", "intensity": 50, "beat_reaction": 64, "base_zoom": 0.99 }
   },
   {
     "track_name": "OIIA OIIA AURA CAT Spinning CAT",
@@ -51,6 +53,7 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "aura" }
@@ -68,6 +71,7 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "empire" }
@@ -85,6 +89,7 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
@@ -102,6 +107,7 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
@@ -119,6 +125,7 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
@@ -136,6 +143,7 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "rainbow" }
@@ -153,6 +161,7 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
@@ -172,6 +181,7 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "audio_sensitivity": 50,
 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
@@ -192,6 +202,7 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "audio_sensitivity": 50,
 
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
