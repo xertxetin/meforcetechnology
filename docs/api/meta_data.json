@@ -239,7 +239,7 @@
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
     "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "cosmic", "blur": 10, "color_palette": "auto" },
-    "master_camera": { "enable_camera": false, "mode": "static", "intensity": 50, "beat_reaction": 50, "base_zoom": 1 }
+    "master_camera": { "enable_camera": false, "mode": "pulse", "intensity": 45, "beat_reaction": 60, "base_zoom": 0.95 }
   },
    {
     "track_name": "OIIA OIIA GEOMETRY Spinning CAT",
