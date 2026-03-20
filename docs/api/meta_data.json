@@ -18,7 +18,7 @@
     "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "3d", "blur": 10 },
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "3d", "blur": 10, "color_palette": "auto" },
     "master_camera": { "enable_camera": true, "mode": "drift", "intensity": 50, "beat_reaction": 64, "base_zoom": 0.97 }
   },
   {
@@ -34,6 +34,9 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "model_3d_lighting_intensity": 5,
+    "model_3d_wireframe": false,
+    "model_3d_lighting_style": "normal", 
     "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
@@ -53,10 +56,14 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "model_3d_lighting_intensity": 5,
+    "model_3d_wireframe": false,
+    "model_3d_lighting_style": "normal", 
     "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "aura" }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "aura", "blur": 10, "color_palette": "auto" },
+    "master_camera": { "enable_camera": false, "mode": "static", "intensity": 50, "beat_reaction": 50, "base_zoom": 1 }
   },
   {
     "track_name": "OIIA OIIA EMPIRE Spinning CAT",
@@ -71,10 +78,14 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "model_3d_lighting_intensity": 5,
+    "model_3d_wireframe": false,
+    "model_3d_lighting_style": "normal", 
     "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "empire" }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "empire", "blur": 10, "color_palette": "auto" },
+    "master_camera": { "enable_camera": false, "mode": "static", "intensity": 50, "beat_reaction": 50, "base_zoom": 1 }
   },
   {
     "track_name": "OIIA OIIA INFINITY Spinning CAT",
@@ -89,10 +100,14 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "model_3d_lighting_intensity": 5,
+    "model_3d_wireframe": false,
+    "model_3d_lighting_style": "normal", 
     "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "all", "blur": 10, "color_palette": "auto" },
+    "master_camera": { "enable_camera": false, "mode": "static", "intensity": 50, "beat_reaction": 50, "base_zoom": 1 }
   },
   {
     "track_name": "OIIA OIIA KOREA Spinning CAT",
@@ -107,10 +122,14 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "model_3d_lighting_intensity": 5,
+    "model_3d_wireframe": false,
+    "model_3d_lighting_style": "normal", 
     "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "all", "blur": 10, "color_palette": "auto" },
+    "master_camera": { "enable_camera": false, "mode": "static", "intensity": 50, "beat_reaction": 50, "base_zoom": 1 }
   },
   {
     "track_name": "OIIA OIIA MONTAGEM TOMADA Spinning CAT",
@@ -125,10 +144,14 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "model_3d_lighting_intensity": 5,
+    "model_3d_wireframe": false,
+    "model_3d_lighting_style": "normal", 
     "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "all", "blur": 10, "color_palette": "auto" },
+    "master_camera": { "enable_camera": false, "mode": "static", "intensity": 50, "beat_reaction": 50, "base_zoom": 1 }
   },
   {
     "track_name": "OIIA OIIA RAINBOW Spinning CAT",
@@ -143,10 +166,14 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "model_3d_lighting_intensity": 5,
+    "model_3d_wireframe": false,
+    "model_3d_lighting_style": "normal", 
     "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "rainbow" }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "rainbow", "blur": 10, "color_palette": "auto" },
+    "master_camera": { "enable_camera": false, "mode": "static", "intensity": 50, "beat_reaction": 50, "base_zoom": 1 }
   },
   {
     "track_name": "OIIA OIIA Spinning CAT",
@@ -161,51 +188,57 @@
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "model_3d_lighting_intensity": 5,
+    "model_3d_wireframe": false,
+    "model_3d_lighting_style": "normal", 
     "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "all" }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "all", "blur": 10, "color_palette": "auto" },
+    "master_camera": { "enable_camera": false, "mode": "static", "intensity": 50, "beat_reaction": 50, "base_zoom": 1 }
   },
    {
     "track_name": "UIIA EGO Spinning CAT",
     "artist_name": "XertXetin",
     "category": "phonk",
     "created_at": "2026-03-17",
-
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/UIIA%20EGO%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/UIIA%20EGO%20Spinning%20CAT.mp3",
     "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/spinning-cat.gif",
-
     "model_3d_creator": null,
     "model_3d_licence": null,
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "model_3d_lighting_intensity": 5,
+    "model_3d_wireframe": false,
+    "model_3d_lighting_style": "normal", 
     "audio_sensitivity": 50,
-
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "ego" }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "ego", "blur": 10, "color_palette": "auto" },
+    "master_camera": { "enable_camera": false, "mode": "static", "intensity": 50, "beat_reaction": 50, "base_zoom": 1 }
   },
   {
     "track_name": "OIIA OIIA COSMIC Spinning CAT",
     "artist_name": "XertXetin",
     "category": "edm",
     "created_at": "2026-03-17",
-
     "track_image": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20COSMIC%20Spinning%20CAT.png",
     "track_url": "https://github.com/xertxetin/meforcetechnology/raw/refs/heads/main/docs/media/xertxetin-tracks/OIIA%20OIIA%20COSMIC%20Spinning%20CAT.mp3",
     "track_animate": "https://raw.githubusercontent.com/xertxetin/meforcetechnology/refs/heads/main/docs/media/spinning-cat.gif",
-
     "model_3d_creator": null,
     "model_3d_licence": null,
     "model_3d": null,
     "model_3d_scale": null,
     "model_3d_speed": null,
+    "model_3d_lighting_intensity": 5,
+    "model_3d_wireframe": false,
+    "model_3d_lighting_style": "normal", 
     "audio_sensitivity": 50,
-
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": true, "auto_vj_category": "cosmic" }
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "cosmic", "blur": 10, "color_palette": "auto" },
+    "master_camera": { "enable_camera": false, "mode": "static", "intensity": 50, "beat_reaction": 50, "base_zoom": 1 }
   }
 ]
