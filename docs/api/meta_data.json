@@ -392,7 +392,7 @@
     "audio_sensitivity": 50,
     "transitions": { "active": true, "ai_auto_director": true, "trigger": "beat" },
     "ambiance": { "active": false, "ai_mode": false, "rage_mode": false },
-    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "all", "blur": 10, "color_palette": "auto" },
+    "generator": { "active": true, "ai_auto_vj": true, "rage_mode": "auto", "auto_vj_category": "golden", "blur": 10, "color_palette": "auto" },
     "master_camera": { "enable_camera": false, "mode": "static", "intensity": 50, "beat_reaction": 50, "base_zoom": 1 }
   },
   {
