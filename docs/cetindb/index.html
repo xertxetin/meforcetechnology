@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>CetinDB - Decentralized Data Mesh</title>
+    <meta name="theme-color" content="#000000" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <link rel="icon" href="./ico.ico" />
+    <link rel="manifest" href="./manifest.json" />
+    <script>
+       window.global = window;
+       window.process = window.process || { env: {} };
+       if (!window.process.nextTick) {
+          window.process.nextTick = function(cb) { 
+              var args = Array.prototype.slice.call(arguments, 1);
+              setTimeout(function() { cb.apply(null, args); }, 0); 
+          };
+       }
+    </script>
+    <script type="module" crossorigin src="./assets/index-Dn0kLR5C.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-wRwGW7bk.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
+
