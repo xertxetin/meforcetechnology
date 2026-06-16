@@ -2,18 +2,58 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <title>Redirect</title>
+    <title>Redirecting...</title>
     <script>
-        const repoName = '';
-        let path = window.location.pathname;
-        
-        if (path.startsWith(repoName)) {
-            path = path.substring(repoName.length);
-        }
-        
-        // index.html'e hash olmadan yönlendir
-        window.location.replace(repoName + '/#' + path);
+        (function() {
+            const l = window.location;
+            let path = l.pathname;
+
+            // Temizle
+            if (path.endsWith('/')) path = path.slice(0, -1);
+
+            const segments = path.split('/').filter(Boolean);
+
+            let base = '';
+            let route = '';
+
+            if (segments.length === 0) {
+                // Root
+                window.location.replace('/');
+                return;
+            }
+
+            // === KARAR MEKANİZMASI ===
+            // 1. Eğer ilk klasör bilinen SPA klasörlerinden biri ise (cetindb gibi) → base olarak al
+            // 2. Değilse → root seviyesinde SPA kabul et (/about → /#/about)
+
+            const knownSPAFolders = ['cetindb', 'baskaKlasor', 'admin', 'panel', 'app']; // Buraya kendi klasörlerini ekle
+
+            if (knownSPAFolders.includes(segments[0])) {
+                // Bilinen alt klasör SPA'sı
+                base = '/' + segments[0];
+                route = segments.slice(1).join('/');
+            } else {
+                // Root seviyesinde direkt route (/about, /contact vs.)
+                base = '';
+                route = segments.join('/');
+            }
+
+            // Hash mode'a çevir
+            let newUrl = base;
+            if (route) {
+                newUrl += '/#' + (route.startsWith('/') ? route : '/' + route);
+            } else {
+                newUrl += '/#/';
+            }
+
+            // Query string ve hash varsa koru
+            newUrl += l.search + l.hash;
+
+            window.location.replace(newUrl);
+        })();
     </script>
 </head>
-<body></body>
+<body>
+    <h1>Redirecting, please wait...</h1>
+</body>
 </html>
