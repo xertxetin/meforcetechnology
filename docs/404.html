@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirect</title>
+    <script>
+        const repoName = '/cetindb';
+        let path = window.location.pathname;
+        
+        if (path.startsWith(repoName)) {
+            path = path.substring(repoName.length);
+        }
+        
+        // index.html'e hash olmadan yönlendir
+        window.location.replace(repoName + '/#' + path);
+    </script>
+</head>
+<body></body>
+</html>
